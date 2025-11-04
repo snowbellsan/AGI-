@@ -47,3 +47,5 @@ C_max超過 → 自動遮断
 
 ライセンスMIT License – 商用・改変・再配布自由
 
+DM歓迎 → habukumohakirabu@gmail.com
+
