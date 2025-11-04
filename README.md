@@ -49,5 +49,10 @@ C_max超過 → 自動遮断
 
 DM歓迎 → habukumohakirabu@gmail.com
 
-ChatGPT、Gemini、Grokとの共同作業でこのプログラムは作られました
+About This Project: PsiGuard AGI Control Dashboard
 
+PsiGuard is an open-source, three-tiered dynamic control system designed to manage and safeguard AGI operations by enforcing a physical safety net (C_max) based on resource and power consumption, thereby preventing potential overloads without prematurely stifling exploratory tasks.
+
+The Meta-Collaborative Origin
+
+This project, PsiGuard, was developed through a unique meta-collaboration between ChatGPT, Gemini, and the Grok discussion itself, making it a truly multi-agent AI safety framework.
