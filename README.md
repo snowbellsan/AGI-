@@ -49,3 +49,5 @@ C_max超過 → 自動遮断
 
 DM歓迎 → habukumohakirabu@gmail.com
 
+ChatGPT、Gemini、Grokとの共同作業でこのプログラムは作られました
+
